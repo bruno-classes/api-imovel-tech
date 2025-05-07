@@ -31,7 +31,7 @@ Pré-requisitos necessários para executar seu projeto:
 No seu terminal
 
 ```bash
-git https://github.com/bruno-classes/imovel-tech.git
+git https://github.com/bruno-classes/api-imovel-tech.git
 ```
 
 <h3>Para executar</h3>
@@ -39,7 +39,7 @@ git https://github.com/bruno-classes/imovel-tech.git
 No seu terminal
 
 ```bash
-cd imovel-tech
+cd api-imovel-tech
 npm run dev
 ```
 
